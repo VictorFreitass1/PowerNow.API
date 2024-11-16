@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Power.API.Data\PowerNow.API.Data.csproj" />
+    <ProjectReference Include="..\PowerNow.API.Application\PowerNow.API.Application.csproj" />
+    <ProjectReference Include="..\PowerNow.API.Domain\PowerNow.API.Domain.csproj" />
+    <ProjectReference Include="..\PowerNow.API.Service\PowerNow.API.Service.csproj" />
+  </ItemGroup>
+
+</Project>
