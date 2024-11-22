@@ -8,6 +8,7 @@ namespace PowerNow.API.Data.AppData
         public ApplicationContext(DbContextOptions<ApplicationContext> options) : base(options)
         {
 
+
         }
         public DbSet<PrevisaoGeracaoEnergiaEntity> PrevisaoGeracaoEnergia { get; set; }
     }
