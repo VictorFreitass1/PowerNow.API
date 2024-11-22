@@ -1,4 +1,4 @@
-  # PowerNow.APIII
+  # PowerNow.API
 
 ## Integrantes
 - RM98695  - Breno Giacoppini Câmara   
